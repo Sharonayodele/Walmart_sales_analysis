@@ -37,9 +37,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 | gross_income            | Gross Income                            | DECIMAL(10, 2) |
 | rating                  | Rating                                  | FLOAT(2, 1)    |
 
-## Development
-
-### Workflow
+## Workflow
 
 1. **Data Cleaning:** This is the first step where the data is inspected to ensure **NULL** values and missing values are detected and data replacement methods are applied. Fortunately, there are no NULL values.
 
@@ -109,6 +107,7 @@ The data analysis is divided into 3 parts:
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
 
+## Data Analysis
 
 ## Revenue And Profit Calculations
 
