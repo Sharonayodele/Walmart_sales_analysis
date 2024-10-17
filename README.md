@@ -48,10 +48,13 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 3. **Feature Engineering:** This will help us generate new columns from existing ones.
 > A. Add a new column named `time_of_day` converting the time to Morning, Afternoon, and Evening. This will help answer the question of which part of the day most sales are made.
+![Added a new column 'time of day'](media/pics/walmartsalessql_featureeng1.PNG)
 
 > B. Add a new column named `day_name` that contains the extracted days of the week on which the given transaction took place (Mon, Tue, Wed, Thur, Fri). This will help answer the question of which week of the day each branch is busiest.
+![Added a new column 'day_name'](media/pics/walmartsalessql_featureeng_dayname.PNG)
 
 > C. Add a new column named `month_name` that contains the extracted months of the year on which the given transaction took place (Jan, Feb, Mar). To determine which month of the year has the most sales and profit.
+![Added a new column 'month_name'](media/pics/walmartsalessql_featureeng_monthname.PNG)
 
 4. ### Data analysis
 The data analysis is divided into 3 parts:
