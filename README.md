@@ -10,7 +10,7 @@ This project aims to explore Walmart Sales data to understand some metrics inclu
 - Customer behavior.
 
 ## Objective
-The objectives are to answer questions using the data to extract insight into sales performance and providing recommendations on how to improve and optimize it. 
+The objectives are to answer questions using the data to extract insight into sales performance and provide recommendations on how to improve and optimize it. 
 The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
 ## About the Data
