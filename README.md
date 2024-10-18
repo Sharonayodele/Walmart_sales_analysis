@@ -218,7 +218,6 @@ The data analysis is divided into 3 parts:
 |----------------------------------------------------------------------------------------------|
 |$COGS = unitsPrice * quantity$                                                                | 
 |VAT = 5\% * COGS$                                                                             |
-|----------------------------------------------------------------------------------------------|
 
 $VAT$ is added to the $COGS$ and this is what is billed to the customer.
 
