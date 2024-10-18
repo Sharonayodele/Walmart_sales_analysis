@@ -62,12 +62,10 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ### Sales
 
-1. What is the number of sales made at each time of the day per weekday?
-
-   
-3. Which of the customer types brings the most revenue?
-4. Which city has the largest tax percentage/ VAT (**Value Added Tax**)?
-5. Which customer type pays the most in VAT?
+1. What is the number of sales made at each time of the day per weekday? 
+2. Which of the customer types brings the most revenue?
+3. Which city has the largest tax percentage/ VAT (**Value Added Tax**)?
+4. Which customer type pays the most in VAT?
 
 ### Customer
 
@@ -107,7 +105,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 4. ### Data analysis
 The data analysis is divided into 3 parts:
-1. Product Analysis
+#### 1. Product Analysis
 > Analyze the data to understand the different product lines, the product lines performing best, and the product lines that need to be improved.
 
 1. How many unique product lines does the data have?
@@ -158,10 +156,28 @@ The data analysis is divided into 3 parts:
     ![Answer](media/pics/walmartsales_sql_prdctq12.PNG)
 
 
-2. Sales Analysis
-> This analysis aims to answer the question of the sales trends of products. The result of this can help us measure the effectiveness of the sales strategies the business applied.
+#### 2. Sales Analysis
+> This analysis aims to answer the question of product sales trends. The result of this can help us measure the effectiveness of the sales strategies the business applied.
 
-3. Customer Analysis
+1. What is the number of sales made at each time of the day per weekday?
+   
+   ![Answer](media/pics/walmartsales_sql_salesq1.PNG)
+
+   ![Answer](media/pics/walmartsales_sql_salesq1.5.PNG)
+   
+2. Which of the customer types brings the most revenue?
+   
+   ![Answer](media/pics/walmartsales_sql_salesq2.PNG)
+   
+3. Which city has the largest tax percentage/ VAT (**Value Added Tax**)?
+
+   ![Answer](media/pics/walmartsales_sql_salesq3.PNG)
+   
+5. Which customer type pays the most in VAT?
+
+   ![Answer](media/pics/walmartsales_sql_salesq4.PNG)
+
+#### 3. Customer Analysis
 > This analysis aims to uncover the different customer segments, purchase trends, and the profitability of each customer segment.
 
 
