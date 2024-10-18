@@ -62,7 +62,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 ### Sales
 
-1. Number of sales made at each time of the day per weekday?
+1. What is the number of sales made at each time of the day per weekday?
 
    
 3. Which of the customer types brings the most revenue?
@@ -111,39 +111,50 @@ The data analysis is divided into 3 parts:
 > Analyze the data to understand the different product lines, the product lines performing best, and the product lines that need to be improved.
 
 1. How many unique product lines does the data have?
+   
    ![Answer](media/pics/walmartsales_sql_prdctq1.PNG)
    > There are 6 unique product lines.
    
 2. What is the most common payment method?
+   
    ![Answer](media/pics/walmartsales_sql_prdctq2.PNG)
    > The most common payment method is Ewallet.
    
 3. What is the highest-selling product line?
+   
    ![Answer](media/pics/walmartsales_sql_prdctq3.PNG)
-  > The highest-selling product line is Fashion accesories.
+  > The highest-selling product line is Fashion accessories.
 
 4. What is the total revenue by month?
+   
    ![Answer](media/pics/walmartsales_sql_prdctq4.PNG)
    
 5. What month had the largest COGS?
+   
    ![Answer](media/pics/walmartsales_sql_prdctq5.PNG)
    
 6. What product line had the largest revenue?
+   
   ![Answer](media/pics/walmartsales_sql_prdctq6.PNG)
 
 7. What is the city with the largest revenue?
+   
    ![Answer](media/pics/walmartsales_sql_prdctq7.PNG)
    
 8. What product line had the largest VAT?
+   
    ![Answer](media/pics/walmartsales_sql_prdctq8.PNG)
    
 9. Which branch sold more products than the average product sold?
+    
     ![Answer](media/pics/walmartsales_sql_prdctq10.PNG)
   
 10. What is the most common product line by gender?
+    
     ![Answer](media/pics/walmartsales_sql_prdctq11.PNG)
     
 11. What is the average rating of each product line?
+    
     ![Answer](media/pics/walmartsales_sql_prdctq12.PNG)
 
 
