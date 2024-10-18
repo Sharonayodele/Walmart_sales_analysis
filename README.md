@@ -215,7 +215,7 @@ The data analysis is divided into 3 parts:
 
 ## Revenue And Profit Calculations
 
-$ COGS = unitsPrice * quantity $
+$COGS = unitsPrice * quantity$
 
 $ VAT = 5\% * COGS $
 
